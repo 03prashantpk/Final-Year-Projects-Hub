@@ -107,20 +107,21 @@ Book a consultation: [Calendly Meeting Link](https://calendly.com/03prashantpk)
 | 📊 Analytics Platform UI | Figma, Design System | Advanced |
 
 
-### 💹 Digital Marketing
-| Project Name | Technologies | Difficulty |
-|--------------|-------------|------------|
-| 📊 Google Analytics Dashboard | Google Analytics, Google Sheets | Intermediate |
-| 📊 Google Ads Campaign | Google Ads, Google Sheets | Intermediate |
-| 😃 Meta Tags | HTML, CSS, JavaScript | Intermediate |
-| 📊 SEO Optimization | Google Search Console, Google Analytics | Intermediate |
-| 📊 Social Media Marketing | Facebook, Twitter, Instagram, LinkedIn, Google Ads | Intermediate |
-| 📊 Email Marketing | Mailchimp, Google Analytics | Intermediate |
-| 📊 Content Marketing | Google Ads, Google Analytics | Intermediate |
-| 📊 Video Marketing | YouTube, Google Analytics | Intermediate |
-| 📊 Affiliate Marketing | Amazon Associates, Google Analytics | Intermediate |
-| 📃 On Page Optimization | Google Search Console, Google Analytics | Intermediate |
-| 📊 Website Speed Optimization | Google PageSpeed Insights, Google Analytics | Intermediate |
+### 💹 Digital Marketing Projects  
+| Project Name                   | Technologies                                | Difficulty     |  
+|--------------------------------|---------------------------------------------|----------------|  
+| 📊 **Google Analytics Dashboard** | Google Analytics, Google Sheets              | Intermediate   |  
+| 📈 **Google Ads Campaign Management** | Google Ads, Excel/Google Sheets              | Intermediate   |  
+| 🌐 **SEO Optimization**          | Google Search Console, Ahrefs, SEMrush       | Intermediate   |  
+| 😃 **Meta Tags Best Practices**  | HTML, CSS, JavaScript                        | Beginner       |  
+| 📢 **Social Media Marketing**    | Facebook Ads Manager, Instagram, LinkedIn    | Intermediate   |  
+| ✉️ **Email Marketing Campaigns** | Mailchimp, Sendinblue, Google Analytics       | Intermediate   |  
+| 🖋️ **Content Marketing Strategy**| Google Docs, Grammarly, AI Tools (e.g., ChatGPT) | Intermediate   |  
+| 🎥 **Video Marketing Campaigns** | YouTube Studio, Adobe Premiere, Google Ads   | Intermediate   |  
+| 🤝 **Affiliate Marketing Strategies** | Amazon Associates, Google Analytics          | Advanced       |  
+| 🏗️ **On-Page SEO Optimization**  | Google Search Console, Screaming Frog        | Intermediate   |  
+| ⚡ **Website Speed Optimization**| Google PageSpeed Insights, Cloudflare, Lighthouse | Intermediate   |  
+| 🌟 **Conversion Rate Optimization**| Google Optimize, Hotjar, Google Analytics   | Advanced       |  
 
 
 
