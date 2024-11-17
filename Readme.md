@@ -4,6 +4,12 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Visitor:) ![Hits](https://hit.yhype.me/github/profile?user_id=43730425)
 
+
+### 🌟 [Follow me to access a free repository of College & Placement Assignments!](https://github.com/03prashantpk/College-Placement-Assignment-Free-Work)
+
+Simply follow me, and our automated bot will grant you access to the private repository with free resources!
+
+
 ## 📢 REACH OUT FOR COLLEGE, UNIVERSITY, PLACEMENT, AND SMALL BUSINESS PROJECTS!
 
 ### 🤝 Schedule a Meeting
@@ -88,6 +94,17 @@ Book a consultation: [Calendly Meeting Link](https://calendly.com/03prashantpk)
 | 💰 Cryptocurrency Exchange | Solidity, Node.js, React | Expert |
 | 🏦 DeFi Lending Platform | Solidity, Web3.js, React | Expert |
 | 🎨 NFT Marketplace | Solidity, IPFS, React | Advanced |
+
+
+### 🎨 UI/UX Design
+| Project Name | Technologies | Difficulty |
+|--------------|-------------|------------|
+| 🖼 Portfolio Website Design | Figma, Adobe XD | Intermediate |
+| 🛍 E-commerce UI Kit | Figma, Prototype | Advanced |
+| 📱 Mobile App Design System | Figma Components | Advanced |
+| 🌐 SaaS Dashboard Design | Figma, Adobe XD | Expert |
+| 🎯 Landing Page Design | Figma, Illustrations | Intermediate |
+| 📊 Analytics Platform UI | Figma, Design System | Advanced |
 
 ## 💎 What We Offer
 
