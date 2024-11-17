@@ -106,6 +106,24 @@ Book a consultation: [Calendly Meeting Link](https://calendly.com/03prashantpk)
 | 🎯 Landing Page Design | Figma, Illustrations | Intermediate |
 | 📊 Analytics Platform UI | Figma, Design System | Advanced |
 
+
+### 💹 Digital Marketing
+| Project Name | Technologies | Difficulty |
+|--------------|-------------|------------|
+| 📊 Google Analytics Dashboard | Google Analytics, Google Sheets | Intermediate |
+| 📊 Google Ads Campaign | Google Ads, Google Sheets | Intermediate |
+| 😃 Meta Tags | HTML, CSS, JavaScript | Intermediate |
+| 📊 SEO Optimization | Google Search Console, Google Analytics | Intermediate |
+| 📊 Social Media Marketing | Facebook, Twitter, Instagram, LinkedIn, Google Ads | Intermediate |
+| 📊 Email Marketing | Mailchimp, Google Analytics | Intermediate |
+| 📊 Content Marketing | Google Ads, Google Analytics | Intermediate |
+| 📊 Video Marketing | YouTube, Google Analytics | Intermediate |
+| 📊 Affiliate Marketing | Amazon Associates, Google Analytics | Intermediate |
+| 📃 On Page Optimization | Google Search Console, Google Analytics | Intermediate |
+| 📊 Website Speed Optimization | Google PageSpeed Insights, Google Analytics | Intermediate |
+
+
+
 ## 💎 What We Offer
 
 - 💻 **Installation Free**
