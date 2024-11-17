@@ -9,8 +9,6 @@
 ### 🤝 Schedule a Meeting
 Book a consultation: [Calendly Meeting Link](https://calendly.com/03prashantpk)
 
-### 💬 Join Our Community
-[Final Year Projects Support Group](https://t.me/final_year_projects_support)
 
 ## 🚀 Available Project Categories
 
@@ -132,9 +130,9 @@ Book a consultation: [Calendly Meeting Link](https://calendly.com/03prashantpk)
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: [Contact Us](mailto:your-email@domain.com)
-- 💬 **Telegram**: [Join Group](https://t.me/final_year_projects_support)
 - 📅 **Meeting**: [Schedule](https://calendly.com/03prashantpk)
+- 🌍 **Website**: [Website](https://projects.enally.in/)
+- 📩 **Email**: [Email](mailto:prashant@enally.in)
 
 ## ⚡ Quick Links
 
